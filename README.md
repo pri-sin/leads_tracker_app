@@ -15,7 +15,7 @@ A clean, installable **Leads Tracker** app built with **vanilla JavaScript** and
 ## 🚀 Demo
 
 [Live Demo](#)  
-_← Replace this with your hosted link (e.g., Firebase Hosting, Netlify, or GitHub Pages)_
+_https://leads-tracker-app-priya.netlify.app/_
 
 ## 🛠️ Tech Stack
 
